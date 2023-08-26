@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LORDAKASH3000
-- 👀 I’m interested in ...C LANGUAGE,C++,Java
+- 👀 I’m interested in ...C LANGUAGE,C++,Java, Python, Spring Framework, Jsp-Servlet.
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...Internship
 - 📫 How to reach me ...tapasroy862@gmail.com
